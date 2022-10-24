@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaya Satish</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<h3 align="center"></h3>
 
 <p align="left">
 </p>
